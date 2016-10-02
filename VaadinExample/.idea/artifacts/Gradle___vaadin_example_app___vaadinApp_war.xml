@@ -1,0 +1,42 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Gradle : vaadin-example:app : vaadinApp.war">
+    <output-path>$PROJECT_DIR$/out/artifacts/app</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$" />
+    </properties>
+    <root id="archive" name="vaadinApp.war">
+      <element id="javaee-facet-resources" facet="app/web/Web Gradle : vaadinApp.war" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="app" />
+          <element id="dir-copy" path="$PROJECT_DIR$/app/build/resources/main" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Gradle: com.vaadin:vaadin-server:7.7.0" />
+          <element id="library" level="project" name="Gradle: com.vaadin:vaadin-sass-compiler:0.9.13" />
+          <element id="library" level="project" name="Gradle: com.vaadin:vaadin-shared:7.7.0" />
+          <element id="library" level="project" name="Gradle: org.jsoup:jsoup:1.8.3" />
+          <element id="library" level="project" name="Gradle: org.w3c.css:sac:1.3" />
+          <element id="library" level="project" name="Gradle: com.vaadin.external.flute:flute:1.3.0.gg2" />
+          <element id="library" level="project" name="Gradle: com.yahoo.platform.yui:yuicompressor:2.4.8" />
+          <element id="library" level="project" name="Gradle: rhino:js:1.7R2" />
+          <element id="library" level="project" name="Gradle: com.vaadin:vaadin-themes:7.7.0" />
+          <element id="library" level="project" name="Gradle: com.vaadin:vaadin-client-compiled:7.7.0" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-context:4.2.5.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-aop:4.2.5.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-beans:4.2.5.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-core:4.2.5.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-expression:4.2.5.RELEASE" />
+          <element id="library" level="project" name="Gradle: aopalliance:aopalliance:1.0" />
+          <element id="library" level="project" name="Gradle: commons-logging:commons-logging:1.2" />
+          <element id="library" level="project" name="Gradle: org.springframework.security:spring-security-web:4.0.3.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework.security:spring-security-core:4.0.3.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-web:4.2.2.RELEASE" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/out/artifacts/app/exploded/vaadinApp.war/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

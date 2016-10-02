@@ -1,0 +1,22 @@
+apply plugin: 'war'
+
+war {
+    archiveName 'vaadinApp.war'
+}
+
+ext {
+    springSecurityGroup = 'org.springframework.security'
+    springSecurityVersion = '4.0.3.RELEASE'
+}
+
+dependencies{
+    compile(
+            ['com.vaadin:vaadin-server:7.7.0'],
+            ['com.vaadin:vaadin-themes:7.7.0'],
+            ['com.vaadin:vaadin-client-compiled:7.7.0'],
+            ["$springSecurityGroup:spring-security-web:$springSecurityVersion"],
+    )
+    providedCompile(
+            ['javax.servlet:javax.servlet-api:3.1.0']
+    )
+}
