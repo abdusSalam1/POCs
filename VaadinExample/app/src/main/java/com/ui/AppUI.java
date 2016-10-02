@@ -8,7 +8,7 @@ import com.vaadin.ui.UI;
 import com.vaadin.ui.VerticalLayout;
 
 /**
- * Created by Click Chain on 9/12/2016.
+ * Created by Abdus Salam on 9/12/2016.
  */
 @PreserveOnRefresh
 public class AppUI extends UI {

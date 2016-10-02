@@ -7,7 +7,7 @@ import com.vaadin.server.VaadinServlet;
 import javax.servlet.annotation.WebServlet;
 
 /**
- * Created by Click Chain on 9/12/2016.
+ * Created by Abdus Salam on 9/12/2016.
  */
 @WebServlet(value = "/*")
 @VaadinServletConfiguration(productionMode = false, ui = AppUI.class)

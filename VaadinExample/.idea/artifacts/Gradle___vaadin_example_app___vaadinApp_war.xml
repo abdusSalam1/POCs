@@ -32,6 +32,18 @@
           <element id="library" level="project" name="Gradle: org.springframework.security:spring-security-web:4.0.3.RELEASE" />
           <element id="library" level="project" name="Gradle: org.springframework.security:spring-security-core:4.0.3.RELEASE" />
           <element id="library" level="project" name="Gradle: org.springframework:spring-web:4.2.2.RELEASE" />
+          <element id="archive" name="vaadin-example-service-1.0.jar">
+            <element id="module-output" name="service" />
+            <element id="dir-copy" path="$PROJECT_DIR$/service/build/resources/main" />
+          </element>
+          <element id="archive" name="vaadin-example-domain-1.0.jar">
+            <element id="module-output" name="domain" />
+            <element id="dir-copy" path="$PROJECT_DIR$/domain/build/resources/main" />
+          </element>
+          <element id="archive" name="vaadin-example-repository-1.0.jar">
+            <element id="module-output" name="repository" />
+            <element id="dir-copy" path="$PROJECT_DIR$/repository/build/resources/main" />
+          </element>
         </element>
       </element>
       <element id="directory" name="META-INF">

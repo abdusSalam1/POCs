@@ -2,3 +2,9 @@ rootProject.name = 'vaadinExample'
 
 include 'app'
 
+include 'domain'
+
+include 'service'
+
+include 'repository'
+

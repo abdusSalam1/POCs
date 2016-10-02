@@ -1,0 +1,7 @@
+description = """Repository"""
+
+dependencies {
+    compile(
+            project(':domain')
+    )
+}
