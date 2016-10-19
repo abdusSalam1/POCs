@@ -5,7 +5,7 @@ import com.domain.User;
 import java.util.UUID;
 
 /**
- * Created by Click Chain on 9/14/2016.
+ * Created by Abdus Salam on 9/14/2016.
  */
 public class UserServiceImpl implements UserService {
   @Override

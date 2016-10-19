@@ -2,6 +2,11 @@ description = """Repository"""
 
 dependencies {
     compile(
-            project(':domain')
+            project(':domain'),
+            ['org.flywaydb:flyway-core:3.2.1'],
+            ['mysql:mysql-connector-java:5.1.36'],
+            ['org.hibernate:hibernate-entitymanager:4.3.10.Final'],
+            ['org.springframework.data:spring-data-jpa:1.8.2.RELEASE'],
+            ['org.apache.commons:commons-dbcp2:2.1']
     )
 }
