@@ -2,49 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4483d7d9-f6d1-42e7-9fe2-4f853116a5e6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_web_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_webmvc_4_2_5_RELEASE.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_web_4_2_2_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/classes/main/com/config/asd.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/classes/main/com/domain/User.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/classes/main/com/listener/LoginFormListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/classes/main/com/service/UserService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/classes/main/com/service/UserServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/app/exploded/vaadinApp.war/WEB-INF/classes/com/config/asd.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/app/exploded/vaadinApp.war/WEB-INF/classes/com/domain/User.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/app/exploded/vaadinApp.war/WEB-INF/classes/com/listener/LoginFormListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/app/exploded/vaadinApp.war/WEB-INF/classes/com/service/UserService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/app/exploded/vaadinApp.war/WEB-INF/classes/com/service/UserServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/app/exploded/vaadinApp.war/WEB-INF/lib/spring-web-4.2.2.RELEASE.jar" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/classes/main/com/config/AppConfiguration.class" afterPath="$PROJECT_DIR$/app/build/classes/main/com/config/AppConfiguration.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/classes/main/com/config/VaadinApplicationConfiguration.class" afterPath="$PROJECT_DIR$/app/build/classes/main/com/config/VaadinApplicationConfiguration.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/classes/main/com/ui/AppUI.class" afterPath="$PROJECT_DIR$/app/build/classes/main/com/ui/AppUI.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/app/exploded/vaadinApp.war/WEB-INF/classes/com/config/AppConfiguration.class" afterPath="$PROJECT_DIR$/out/artifacts/app/exploded/vaadinApp.war/WEB-INF/classes/com/config/AppConfiguration.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/app/exploded/vaadinApp.war/WEB-INF/classes/com/config/VaadinApplicationConfiguration.class" afterPath="$PROJECT_DIR$/out/artifacts/app/exploded/vaadinApp.war/WEB-INF/classes/com/config/VaadinApplicationConfiguration.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/app/exploded/vaadinApp.war/WEB-INF/classes/com/ui/AppUI.class" afterPath="$PROJECT_DIR$/out/artifacts/app/exploded/vaadinApp.war/WEB-INF/classes/com/ui/AppUI.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/app/exploded/vaadinApp.war/WEB-INF/lib/vaadin-example-domain-1.0.jar" afterPath="$PROJECT_DIR$/out/artifacts/app/exploded/vaadinApp.war/WEB-INF/lib/vaadin-example-domain-1.0.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/app/exploded/vaadinApp.war/WEB-INF/lib/vaadin-example-repository-1.0.jar" afterPath="$PROJECT_DIR$/out/artifacts/app/exploded/vaadinApp.war/WEB-INF/lib/vaadin-example-repository-1.0.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/app/exploded/vaadinApp.war/WEB-INF/lib/vaadin-example-service-1.0.jar" afterPath="$PROJECT_DIR$/out/artifacts/app/exploded/vaadinApp.war/WEB-INF/lib/vaadin-example-service-1.0.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repository/build/classes/main/com/config/DataMigrationConfig.class" afterPath="$PROJECT_DIR$/repository/build/classes/main/com/config/DataMigrationConfig.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repository/build/classes/main/com/config/DataSourceConfiguration.class" afterPath="$PROJECT_DIR$/repository/build/classes/main/com/config/DataSourceConfiguration.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repository/build/classes/main/com/config/RepositoryConfiguration.class" afterPath="$PROJECT_DIR$/repository/build/classes/main/com/config/RepositoryConfiguration.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/service/build/classes/main/com/config/ServiceConfiguration.class" afterPath="$PROJECT_DIR$/service/build/classes/main/com/config/ServiceConfiguration.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/Gradle___vaadin_example_app___vaadinApp_war.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Gradle___vaadin_example_app___vaadinApp_war.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/Gradle___vaadin_example_app___vaadinApp_war__exploded_.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Gradle___vaadin_example_app___vaadinApp_war__exploded_.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/config/AppConfiguration.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/config/AppConfiguration.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/config/VaadinApplicationConfiguration.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/config/VaadinApplicationConfiguration.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ui/AppUI.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ui/AppUI.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/domain/domain.iml" afterPath="$PROJECT_DIR$/domain/domain.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repository/build/resources/main/datasource.properties" afterPath="$PROJECT_DIR$/repository/build/resources/main/datasource.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repository/repository.iml" afterPath="$PROJECT_DIR$/repository/repository.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repository/src/main/java/com/config/DataMigrationConfig.java" afterPath="$PROJECT_DIR$/repository/src/main/java/com/config/DataMigrationConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repository/src/main/java/com/config/DataSourceConfiguration.java" afterPath="$PROJECT_DIR$/repository/src/main/java/com/config/DataSourceConfiguration.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repository/src/main/resources/datasource.properties" afterPath="$PROJECT_DIR$/repository/src/main/resources/datasource.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/service/service.iml" afterPath="$PROJECT_DIR$/service/service.iml" />
     </list>
     <ignored path="vaadinExample.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -115,53 +73,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RepositoryConfiguration.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/repository/src/main/java/com/config/RepositoryConfiguration.java">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DataMigrationConfig.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/repository/src/main/java/com/config/DataMigrationConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="2.6149426">
-              <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DataSourceConfiguration.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/repository/src/main/java/com/config/DataSourceConfiguration.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AppConfiguration.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/config/AppConfiguration.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="datasource.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/repository/src/main/resources/datasource.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -1490,22 +1406,22 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\TestApplications\vaadin\examples\VaadinExample\repository\src\main\resources\db\migration" />
-      <recent name="D:\TestApplications\VaadinExample\app\src\main\java\com" />
-      <recent name="D:\TestApplications\VaadinExample\app" />
-      <recent name="D:\TestApplications\VaadinExample\app\src" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\TestApplications\vaadin\examples\VaadinExample" />
+      <recent name="E:\TestApplications\vaadin\examples\VaadinExample\repository\src\main\resources" />
+      <recent name="E:\TestApplications\vaadin\examples\VaadinExample\repository\src\main\java\com\config" />
+      <recent name="E:\TestApplications\VaadinExample\service" />
+      <recent name="E:\TestApplications\VaadinExample\repository" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.config" />
       <recent name="com.ui" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\TestApplications\vaadin\examples\VaadinExample\repository\src\main\resources" />
-      <recent name="E:\TestApplications\vaadin\examples\VaadinExample\repository\src\main\java\com\config" />
-      <recent name="E:\TestApplications\VaadinExample\service" />
-      <recent name="E:\TestApplications\VaadinExample\repository" />
-      <recent name="E:\TestApplications\VaadinExample\domain" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\TestApplications\vaadin\examples\VaadinExample\repository\src\main\resources\db\migration" />
+      <recent name="D:\TestApplications\VaadinExample\app\src\main\java\com" />
+      <recent name="D:\TestApplications\VaadinExample\app" />
+      <recent name="D:\TestApplications\VaadinExample\app\src" />
     </key>
   </component>
   <component name="RunManager" selected="Tomcat Server.vaadinExample">
@@ -2027,16 +1943,16 @@
       <workItem from="1476812981309" duration="2548000" />
       <workItem from="1476852302746" duration="9769000" />
       <workItem from="1476883797650" duration="162000" />
-      <workItem from="1476884033304" duration="3007000" />
+      <workItem from="1476884033304" duration="3478000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43209000" />
+    <option name="totallyTimeSpent" value="43680000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -2046,7 +1962,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.51282054" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6547009" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6547009" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.52820516" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -2126,14 +2042,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/config/SpringConfigurationInitializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/service/src/main/java/com/config/ServiceConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2365,13 +2273,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-server/7.7.0/e089893e1d6c481939276f34497f340a432bceb3/vaadin-server-7.7.0-sources.jar!/com/vaadin/server/VaadinServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.18312387">
@@ -2456,16 +2357,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/repository/src/main/resources/datasource.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.06104129">
           <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21364452">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
           <folding />
         </state>
       </provider>
@@ -2488,7 +2381,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/config/AppConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.36624774">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
@@ -2496,7 +2389,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/repository/src/main/java/com/config/DataSourceConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.6032316">
           <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -2506,8 +2399,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/repository/src/main/java/com/config/DataMigrationConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.6149426">
+        <state vertical-scroll-proportion="0.8168761">
           <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21364452">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30520648">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
