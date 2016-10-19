@@ -5,7 +5,7 @@ subprojects{
     version = '1.0'
     ext {
         springGroup = 'org.springframework'
-        springVersion = '4.2.5.RELEASE'
+        springVersion = '4.3.2.RELEASE'
     }
 
     repositories {
@@ -13,7 +13,8 @@ subprojects{
     }
     dependencies {
         compile(
-                ["$springGroup:spring-context:$springVersion"]
+                ["$springGroup:spring-context:$springVersion"],
+                ['com.vaadin:vaadin-spring:1.0.2']
         )
     }
 }

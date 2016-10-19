@@ -3,7 +3,6 @@ package com.config;
 import com.ui.AppUI;
 import com.vaadin.annotations.VaadinServletConfiguration;
 import com.vaadin.server.VaadinServlet;
-import org.springframework.context.annotation.Import;
 
 import javax.servlet.annotation.WebServlet;
 
@@ -13,7 +12,6 @@ import javax.servlet.annotation.WebServlet;
 
 @WebServlet(value = "/*")
 @VaadinServletConfiguration(productionMode = false, ui = AppUI.class)
-@Import(AppConfiguration.class)
 public class VaadinApplicationConfiguration extends VaadinServlet {
 
 }

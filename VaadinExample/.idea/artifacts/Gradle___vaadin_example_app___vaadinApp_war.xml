@@ -31,7 +31,6 @@
           <element id="library" level="project" name="Gradle: commons-logging:commons-logging:1.2" />
           <element id="library" level="project" name="Gradle: org.springframework.security:spring-security-web:4.0.3.RELEASE" />
           <element id="library" level="project" name="Gradle: org.springframework.security:spring-security-core:4.0.3.RELEASE" />
-          <element id="library" level="project" name="Gradle: org.springframework:spring-web:4.2.2.RELEASE" />
           <element id="archive" name="vaadin-example-service-1.0.jar">
             <element id="module-output" name="service" />
             <element id="dir-copy" path="$PROJECT_DIR$/service/build/resources/main" />
@@ -40,6 +39,7 @@
             <element id="module-output" name="domain" />
             <element id="dir-copy" path="$PROJECT_DIR$/domain/build/resources/main" />
           </element>
+          <element id="library" level="project" name="Gradle: com.vaadin:vaadin-spring:1.0.2" />
           <element id="archive" name="vaadin-example-repository-1.0.jar">
             <element id="module-output" name="repository" />
             <element id="dir-copy" path="$PROJECT_DIR$/repository/build/resources/main" />
@@ -68,6 +68,8 @@
           <element id="library" level="project" name="Gradle: org.springframework:spring-jdbc:4.0.9.RELEASE" />
           <element id="library" level="project" name="Gradle: org.apache.commons:commons-dbcp2:2.1" />
           <element id="library" level="project" name="Gradle: org.apache.commons:commons-pool2:2.3" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.2.5.RELEASE/cf463cce3e4453eb4b9a69de2dcdfd60c3c57e0/spring-webmvc-4.2.5.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.2.5.RELEASE/49cd2430884b77172aa81e3fc33ef668ea1dab30/spring-web-4.2.5.RELEASE.jar" />
         </element>
       </element>
       <element id="directory" name="META-INF">

@@ -31,7 +31,6 @@ class DataMigrationConfig {
     @Bean(initMethod = "migrate")
     @Profile("default")
     Flyway flyway() {
-        System.out.println("Creating bean for starting");
         Flyway flyway = new Flyway();
         flyway.setDataSource(dataSource);
         flyway.setTable(flywaySchemaTable);

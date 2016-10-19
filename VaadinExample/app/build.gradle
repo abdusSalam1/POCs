@@ -16,6 +16,7 @@ dependencies{
             ['com.vaadin:vaadin-themes:7.7.0'],
             ['com.vaadin:vaadin-client-compiled:7.7.0'],
             ["$springSecurityGroup:spring-security-web:$springSecurityVersion"],
+            ["$springGroup:spring-webmvc:$springVersion"]
     )
     providedCompile(
             ['javax.servlet:javax.servlet-api:3.1.0']
